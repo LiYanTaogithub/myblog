@@ -1,0 +1,29 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "config": {
+    "nuxt": {
+        "host": "0.0.0.0",
+        "port": "3010"
+    }
+},
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "axios": "^0.19.2",
+    "iview": "^3.5.4",
+    "mavon-editor": "^2.9.0",
+    "moment": "^2.27.0",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.13.0",
+    "sass-loader": "^9.0.2"
+  },
+  "devDependencies": {}
+}
