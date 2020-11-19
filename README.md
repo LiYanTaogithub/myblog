@@ -1,4 +1,5 @@
 # myblog
+## 基于nuxt+ivew开发的个人博客系统，用于记录平时开发中的问题，以及学习笔记整理。
 
 ## Build Setup
 
